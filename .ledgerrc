@@ -1,0 +1,11 @@
+
+
+--file ~/Documents/bhr-18-00.ledger
+--date-format=%Y-%m-%d
+--sort date
+--empty
+--color
+--wide
+--cleared
+--pager /usr/bin/less
+;--strict
