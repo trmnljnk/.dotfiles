@@ -4,7 +4,7 @@
 --date-format=%Y-%m-%d
 --sort date
 --empty
---color
+--force-color
 --wide
 --cleared
 --pager /usr/bin/less
