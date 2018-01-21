@@ -7,5 +7,13 @@
 --color
 --wide
 --cleared
---pager /usr/bin/less
+
 ;--strict
+;--pedantic
+;--explicit
+;--check-payees
+;--strict
+;--flat
+;--no-total
+
+
