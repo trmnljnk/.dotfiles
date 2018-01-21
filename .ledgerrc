@@ -1,6 +1,6 @@
 
 
---file ~/Documents/bhr-18-00.ledger
+--file ~/Dropbox/ledger/bhr-18-00.ledger
 --date-format=%Y-%m-%d
 --sort date
 --empty
